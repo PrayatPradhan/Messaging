@@ -1,7 +1,9 @@
 <Solution>
-  <Folder Name="/Domain/" />
+  <Folder Name="/Domain/">
+    <Project Path="Messaging.Domain.Core/Messaging.Domain.Core.csproj" />
+  </Folder>
   <Folder Name="/Infra.Bus/" />
   <Folder Name="/Infra.IoC/" />
   <Folder Name="/Microservices/" />
-  <Folder Name="/NewFolder1/" />
+  <Folder Name="/Presentation/" />
 </Solution>
