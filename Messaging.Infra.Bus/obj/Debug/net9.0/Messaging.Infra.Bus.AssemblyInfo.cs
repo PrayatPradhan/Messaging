@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Messaging.Infra.Bus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4280eea997f6c3b834d6d8ba2e773fe3952c1cfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+200debb99d05e0cce33c8b641b6bbc084e50b415")]
 [assembly: System.Reflection.AssemblyProductAttribute("Messaging.Infra.Bus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Messaging.Infra.Bus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,9 @@
   <Folder Name="/Infra.Bus/">
     <Project Path="Messaging.Infra.Bus/Messaging.Infra.Bus.csproj" />
   </Folder>
-  <Folder Name="/Infra.IoC/" />
+  <Folder Name="/Infra.IoC/">
+    <Project Path="Messaging.Infra.IoC/Messaging.Infra.IoC.csproj" Id="811573ca-0c28-4258-a547-37e7b10aa83c" />
+  </Folder>
   <Folder Name="/Microservices/" />
   <Folder Name="/Presentation/" />
 </Solution>
