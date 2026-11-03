@@ -9,5 +9,18 @@
     <Project Path="Messaging.Infra.IoC/Messaging.Infra.IoC.csproj" Id="811573ca-0c28-4258-a547-37e7b10aa83c" />
   </Folder>
   <Folder Name="/Microservices/" />
+  <Folder Name="/Microservices/Banking/" />
+  <Folder Name="/Microservices/Banking/Api/">
+    <Project Path="Messaging.Banking.WebApi/Messaging.Banking.WebApi.csproj" Id="e06257ce-89c2-47d1-84bd-60a17602bc7c" />
+  </Folder>
+  <Folder Name="/Microservices/Banking/Application/">
+    <Project Path="Messaging.Banking.Application/Messaging.Banking.Application.csproj" Id="7f639c58-77f7-41e7-a024-74e0961b0783" />
+  </Folder>
+  <Folder Name="/Microservices/Banking/Data/">
+    <Project Path="Messaging.Banking.Data/Messaging.Banking.Data.csproj" Id="366c0dc9-f859-41f5-9bbd-f4cf7360582d" />
+  </Folder>
+  <Folder Name="/Microservices/Banking/Domain/">
+    <Project Path="Messaging.Banking.Domain/Messaging.Banking.Domain.csproj" Id="a543e45a-78c3-447b-940d-1ca83ec40f55" />
+  </Folder>
   <Folder Name="/Presentation/" />
 </Solution>

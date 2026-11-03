@@ -1,0 +1,13 @@
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\bin\Debug\net9.0\Messaging.Banking.Domain.deps.json
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\bin\Debug\net9.0\Messaging.Banking.Domain.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\bin\Debug\net9.0\Messaging.Banking.Domain.pdb
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.AssemblyInfoInputs.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.AssemblyInfo.cs
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.csproj.CoreCompileInputs.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.sourcelink.json
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\refint\Messaging.Banking.Domain.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.pdb
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\ref\Messaging.Banking.Domain.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messagin.89BBFE3A.Up2Date

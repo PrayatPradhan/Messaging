@@ -1,0 +1,14 @@
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\bin\Debug\net9.0\Messaging.Domain.Core.deps.json
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\bin\Debug\net9.0\Messaging.Domain.Core.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\bin\Debug\net9.0\Messaging.Domain.Core.pdb
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messaging.Domain.Core.csproj.AssemblyReference.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messaging.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messaging.Domain.Core.AssemblyInfoInputs.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messaging.Domain.Core.AssemblyInfo.cs
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messaging.Domain.Core.csproj.CoreCompileInputs.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messaging.Domain.Core.sourcelink.json
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messaging.Domain.Core.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\refint\Messaging.Domain.Core.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messaging.Domain.Core.pdb
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\ref\Messaging.Domain.Core.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Domain.Core\obj\Debug\net9.0\Messagin.D5064448.Up2Date

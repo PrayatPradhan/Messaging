@@ -1,0 +1,16 @@
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\bin\Debug\net9.0\Messaging.Infra.Bus.deps.json
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\bin\Debug\net9.0\Messaging.Infra.Bus.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\bin\Debug\net9.0\Messaging.Infra.Bus.pdb
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\bin\Debug\net9.0\Messaging.Domain.Core.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\bin\Debug\net9.0\Messaging.Domain.Core.pdb
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messaging.Infra.Bus.csproj.AssemblyReference.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messaging.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messaging.Infra.Bus.AssemblyInfoInputs.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messaging.Infra.Bus.AssemblyInfo.cs
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messaging.Infra.Bus.csproj.CoreCompileInputs.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messaging.Infra.Bus.sourcelink.json
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messagin.E98CD18B.Up2Date
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messaging.Infra.Bus.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\refint\Messaging.Infra.Bus.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\Messaging.Infra.Bus.pdb
+D:\code\Mesaging\MessagingMicroservice\Messaging.Infra.Bus\obj\Debug\net9.0\ref\Messaging.Infra.Bus.dll
