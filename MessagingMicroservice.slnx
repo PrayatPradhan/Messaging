@@ -2,7 +2,9 @@
   <Folder Name="/Domain/">
     <Project Path="Messaging.Domain.Core/Messaging.Domain.Core.csproj" />
   </Folder>
-  <Folder Name="/Infra.Bus/" />
+  <Folder Name="/Infra.Bus/">
+    <Project Path="Messaging.Infra.Bus/Messaging.Infra.Bus.csproj" />
+  </Folder>
   <Folder Name="/Infra.IoC/" />
   <Folder Name="/Microservices/" />
   <Folder Name="/Presentation/" />
