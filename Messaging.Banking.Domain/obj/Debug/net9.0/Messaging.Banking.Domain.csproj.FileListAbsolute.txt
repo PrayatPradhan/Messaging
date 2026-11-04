@@ -11,3 +11,6 @@ D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.pdb
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\ref\Messaging.Banking.Domain.dll
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messagin.89BBFE3A.Up2Date
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\bin\Debug\net9.0\Messaging.Domain.Core.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\bin\Debug\net9.0\Messaging.Domain.Core.pdb
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Domain\obj\Debug\net9.0\Messaging.Banking.Domain.csproj.AssemblyReference.cache

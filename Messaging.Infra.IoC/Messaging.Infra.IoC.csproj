@@ -11,10 +11,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Messagin.Transfer.Application\Messagin.Transfer.Application.csproj" />
     <ProjectReference Include="..\Messaging.Banking.Application\Messaging.Banking.Application.csproj" />
     <ProjectReference Include="..\Messaging.Banking.Data\Messaging.Banking.Data.csproj" />
     <ProjectReference Include="..\Messaging.Domain.Core\Messaging.Domain.Core.csproj" />
     <ProjectReference Include="..\Messaging.Infra.Bus\Messaging.Infra.Bus.csproj" />
+    <ProjectReference Include="..\Messaging.Transfer.Data\Messaging.Transfer.Data.csproj" />
   </ItemGroup>
 
 </Project>

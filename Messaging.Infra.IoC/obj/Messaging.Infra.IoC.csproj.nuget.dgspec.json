@@ -4,6 +4,80 @@
     "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Infra.IoC\\Messaging.Infra.IoC.csproj": {}
   },
   "projects": {
+    "D:\\code\\Mesaging\\MessagingMicroservice\\Messagin.Transfer.Application\\Messagin.Transfer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\Mesaging\\MessagingMicroservice\\Messagin.Transfer.Application\\Messagin.Transfer.Application.csproj",
+        "projectName": "Messagin.Transfer.Application",
+        "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messagin.Transfer.Application\\Messagin.Transfer.Application.csproj",
+        "packagesPath": "C:\\Users\\praya\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messagin.Transfer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\praya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Domain.Core\\Messaging.Domain.Core.csproj": {
+                "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Domain.Core\\Messaging.Domain.Core.csproj"
+              },
+              "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Domain\\Messaging.Transfer.Domain.csproj": {
+                "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Domain\\Messaging.Transfer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Banking.Application\\Messaging.Banking.Application.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -368,6 +442,10 @@
               "target": "Package",
               "version": "[14.2.0, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.14, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.4, )"
@@ -426,6 +504,9 @@
             "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
+              "D:\\code\\Mesaging\\MessagingMicroservice\\Messagin.Transfer.Application\\Messagin.Transfer.Application.csproj": {
+                "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messagin.Transfer.Application\\Messagin.Transfer.Application.csproj"
+              },
               "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Banking.Application\\Messaging.Banking.Application.csproj": {
                 "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Banking.Application\\Messaging.Banking.Application.csproj"
               },
@@ -437,6 +518,9 @@
               },
               "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Infra.Bus\\Messaging.Infra.Bus.csproj": {
                 "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Infra.Bus\\Messaging.Infra.Bus.csproj"
+              },
+              "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Data\\Messaging.Transfer.Data.csproj": {
+                "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Data\\Messaging.Transfer.Data.csproj"
               }
             }
           }
@@ -463,6 +547,170 @@
               "version": "[10.0.14, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Data\\Messaging.Transfer.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Data\\Messaging.Transfer.Data.csproj",
+        "projectName": "Messaging.Transfer.Data",
+        "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Data\\Messaging.Transfer.Data.csproj",
+        "packagesPath": "C:\\Users\\praya\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\praya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Domain\\Messaging.Transfer.Domain.csproj": {
+                "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Domain\\Messaging.Transfer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Domain\\Messaging.Transfer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Domain\\Messaging.Transfer.Domain.csproj",
+        "projectName": "Messaging.Transfer.Domain",
+        "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Domain\\Messaging.Transfer.Domain.csproj",
+        "packagesPath": "C:\\Users\\praya\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Transfer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\praya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Domain.Core\\Messaging.Domain.Core.csproj": {
+                "projectPath": "D:\\code\\Mesaging\\MessagingMicroservice\\Messaging.Domain.Core\\Messaging.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

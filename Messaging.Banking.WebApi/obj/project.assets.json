@@ -1047,6 +1047,20 @@
           }
         }
       },
+      "Messagin.Transfer.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Messaging.Domain.Core": "1.0.0",
+          "Messaging.Transfer.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Messagin.Transfer.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Messagin.Transfer.Application.dll": {}
+        }
+      },
       "Messaging.Banking.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -1107,6 +1121,7 @@
         "dependencies": {
           "MediatR": "14.2.0",
           "Messaging.Domain.Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "10.0.14",
           "Newtonsoft.Json": "13.0.4",
           "RabbitMQ.Client": "7.2.2"
         },
@@ -1121,10 +1136,12 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "Messagin.Transfer.Application": "1.0.0",
           "Messaging.Banking.Application": "1.0.0",
           "Messaging.Banking.Data": "1.0.0",
           "Messaging.Domain.Core": "1.0.0",
           "Messaging.Infra.Bus": "1.0.0",
+          "Messaging.Transfer.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "10.0.14"
         },
         "compile": {
@@ -1132,6 +1149,34 @@
         },
         "runtime": {
           "bin/placeholder/Messaging.Infra.IoC.dll": {}
+        }
+      },
+      "Messaging.Transfer.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Messaging.Transfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.22",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.22"
+        },
+        "compile": {
+          "bin/placeholder/Messaging.Transfer.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Messaging.Transfer.Data.dll": {}
+        }
+      },
+      "Messaging.Transfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Messaging.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Messaging.Transfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Messaging.Transfer.Domain.dll": {}
         }
       }
     }
@@ -2748,6 +2793,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Messagin.Transfer.Application/1.0.0": {
+      "type": "project",
+      "path": "../Messagin.Transfer.Application/Messagin.Transfer.Application.csproj",
+      "msbuildProject": "../Messagin.Transfer.Application/Messagin.Transfer.Application.csproj"
+    },
     "Messaging.Banking.Application/1.0.0": {
       "type": "project",
       "path": "../Messaging.Banking.Application/Messaging.Banking.Application.csproj",
@@ -2777,6 +2827,16 @@
       "type": "project",
       "path": "../Messaging.Infra.IoC/Messaging.Infra.IoC.csproj",
       "msbuildProject": "../Messaging.Infra.IoC/Messaging.Infra.IoC.csproj"
+    },
+    "Messaging.Transfer.Data/1.0.0": {
+      "type": "project",
+      "path": "../Messaging.Transfer.Data/Messaging.Transfer.Data.csproj",
+      "msbuildProject": "../Messaging.Transfer.Data/Messaging.Transfer.Data.csproj"
+    },
+    "Messaging.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Messaging.Transfer.Domain/Messaging.Transfer.Domain.csproj",
+      "msbuildProject": "../Messaging.Transfer.Domain/Messaging.Transfer.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

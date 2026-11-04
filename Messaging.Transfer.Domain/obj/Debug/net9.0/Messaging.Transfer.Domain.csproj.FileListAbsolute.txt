@@ -1,0 +1,6 @@
+D:\code\Mesaging\MessagingMicroservice\Messaging.Transfer.Domain\obj\Debug\net9.0\Messaging.Transfer.Domain.csproj.AssemblyReference.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Transfer.Domain\obj\Debug\net9.0\Messaging.Transfer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Mesaging\MessagingMicroservice\Messaging.Transfer.Domain\obj\Debug\net9.0\Messaging.Transfer.Domain.AssemblyInfoInputs.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Transfer.Domain\obj\Debug\net9.0\Messaging.Transfer.Domain.AssemblyInfo.cs
+D:\code\Mesaging\MessagingMicroservice\Messaging.Transfer.Domain\obj\Debug\net9.0\Messaging.Transfer.Domain.csproj.CoreCompileInputs.cache
+D:\code\Mesaging\MessagingMicroservice\Messaging.Transfer.Domain\obj\Debug\net9.0\Messaging.Transfer.Domain.sourcelink.json

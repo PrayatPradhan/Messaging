@@ -14,3 +14,5 @@ D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Application\obj\Debug\n
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Application\obj\Debug\net9.0\refint\Messaging.Banking.Application.dll
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Application\obj\Debug\net9.0\Messaging.Banking.Application.pdb
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Application\obj\Debug\net9.0\ref\Messaging.Banking.Application.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Application\bin\Debug\net9.0\Messaging.Domain.Core.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Application\bin\Debug\net9.0\Messaging.Domain.Core.pdb

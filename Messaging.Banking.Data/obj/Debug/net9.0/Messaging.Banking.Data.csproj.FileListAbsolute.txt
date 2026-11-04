@@ -16,3 +16,5 @@ D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Data\obj\Debug\net9.0\r
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Data\obj\Debug\net9.0\Messaging.Banking.Data.pdb
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Data\obj\Debug\net9.0\Messaging.Banking.Data.genruntimeconfig.cache
 D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Data\obj\Debug\net9.0\ref\Messaging.Banking.Data.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Data\bin\Debug\net9.0\Messaging.Domain.Core.dll
+D:\code\Mesaging\MessagingMicroservice\Messaging.Banking.Data\bin\Debug\net9.0\Messaging.Domain.Core.pdb
