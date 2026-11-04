@@ -1,4 +1,5 @@
 ﻿using Messaging.Banking.Application.Interfaces;
+using Messaging.Banking.Application.Models;
 using Messaging.Banking.Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -20,5 +21,12 @@ public class BankingController : Controller
     public ActionResult<IEnumerable<Account>> Get()
     {
         return Ok(_accountService.GetAccounts());   
+    }
+
+    [HttpPost]
+    public IActionResult PostAsync([FromBody] AccountTransfer accountTransfer)
+    {
+        _accountService.Transfer(accountTransfer);
+        return Ok(accountTransfer);
     }
 }

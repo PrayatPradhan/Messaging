@@ -1,7 +1,10 @@
-﻿using Messaging.Banking.Application.Interfaces;
+﻿using MediatR;
+using Messaging.Banking.Application.Interfaces;
 using Messaging.Banking.Application.Services;
 using Messaging.Banking.Data.Context;
 using Messaging.Banking.Data.Repository;
+using Messaging.Banking.Domain.CommandHandlers;
+using Messaging.Banking.Domain.Commands;
 using Messaging.Banking.Domain.Interfaces;
 using Messaging.Domain.Core.Bus;
 using Messaging.Infra.Bus;
@@ -19,6 +22,9 @@ public class DependencyContainer
     {
         // Domain Bus
         services.AddTransient<IEventBus, RabbitMqBus>();
+
+        // Domain Banking
+        services.AddTransient<IRequestHandler<CreateTransferCommand, bool>, TransferCommandHandler>();
 
         // Application Service
         services.AddTransient<IAccountService, AccountService>();
