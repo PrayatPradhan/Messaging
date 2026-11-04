@@ -22,5 +22,18 @@
   <Folder Name="/Microservices/Banking/Domain/">
     <Project Path="Messaging.Banking.Domain/Messaging.Banking.Domain.csproj" Id="a543e45a-78c3-447b-940d-1ca83ec40f55" />
   </Folder>
+  <Folder Name="/Microservices/Transfer/" />
+  <Folder Name="/Microservices/Transfer/Api/">
+    <Project Path="Messaging.Transfer.Api/Messaging.Transfer.Api.csproj" Id="a4ec31a7-4468-4e85-be9b-7e8a3b250b8b" />
+  </Folder>
+  <Folder Name="/Microservices/Transfer/Application/">
+    <Project Path="Messagin.Transfer.Application/Messagin.Transfer.Application.csproj" Id="15995e60-b85c-4fba-850e-d5bda47ba307" />
+  </Folder>
+  <Folder Name="/Microservices/Transfer/Data/">
+    <Project Path="Messaging.Transfer.Data/Messaging.Transfer.Data.csproj" Id="b471116d-7f50-4604-b57e-bfd874bcb47e" />
+  </Folder>
+  <Folder Name="/Microservices/Transfer/Domain/">
+    <Project Path="Messaging.Transfer.Domain/Messaging.Transfer.Domain.csproj" Id="987b43ca-c4f7-4d64-8967-35c472e2a32a" />
+  </Folder>
   <Folder Name="/Presentation/" />
 </Solution>
